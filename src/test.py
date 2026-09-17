@@ -1,7 +1,6 @@
 import sys
 # replace the following line with:
 from graphs_jcasaus import sp
-import sp
 
 if __name__ == '__main__':
     
