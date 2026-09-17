@@ -7,7 +7,7 @@
 Install the package directly via `pip`:
 
 ```bash
-pip install graphs-jcasaus==0.0.1
+pip install graphs-jcasaus==0.0.2
 
 ```
 
